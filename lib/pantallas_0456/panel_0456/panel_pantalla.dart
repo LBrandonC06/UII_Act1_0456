@@ -34,6 +34,7 @@ class PanelPantalla_0456 extends StatelessWidget {
       ),
       body: Column(children: [
         Container(
+          margin: EdgeInsets.all(15),
           padding: EdgeInsets.symmetric(horizontal: 15),
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10.0),
